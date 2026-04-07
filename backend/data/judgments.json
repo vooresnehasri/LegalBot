@@ -1,0 +1,665 @@
+[
+  {
+    "id": "year-year",
+    "case_name": "year",
+    "citation": "year",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "archive-type-archive-type",
+    "case_name": "archive_type",
+    "citation": "archive_type",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "file-count-file-count",
+    "case_name": "file_count",
+    "citation": "file_count",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "total-size-total-size",
+    "case_name": "total_size",
+    "citation": "total_size",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "total-size-human-total-size-human",
+    "case_name": "total_size_human",
+    "citation": "total_size_human",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "created-at-created-at",
+    "case_name": "created_at",
+    "citation": "created_at",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "updated-at-updated-at",
+    "case_name": "updated_at",
+    "citation": "updated_at",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "parts-parts",
+    "case_name": "parts",
+    "citation": "parts",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "khimji-raja-harijan-vs-district-magistrate-and-ors-on-16-october-1987-1988-2glr1008",
+    "case_name": "Khimji Raja Harijan vs District Magistrate And Ors. on 16 October, 1987",
+    "citation": "(1988)2GLR1008",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "ganesh-chandra-bhatt-vs-district-magistrate-almora-and-others-on-12-march-1993-air1993all2",
+    "case_name": "Ganesh Chandra Bhatt vs District Magistrate, Almora And Others on 12 March, 1993",
+    "citation": "AIR1993ALL291",
+    "court": [
+      1900
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "sunkara-satyanarayana-vs-state-of-andhra-pradesh-home-on-15-october-1999-2000-1-ald-cri-11",
+    "case_name": "Sunkara Satyanarayana vs State Of Andhra Pradesh, Home ... on 15 October, 1999",
+    "citation": "2000(1)ALD(CRI)117",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "ashok-kumar-dixit-vs-state-of-u-p-and-anr-on-5-march-1987-air1987all235",
+    "case_name": "Ashok Kumar Dixit vs State Of U.P. And Anr. on 5 March, 1987",
+    "citation": "AIR1987ALL235",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "the-commissioner-bangalore-vs-state-of-karnataka-and-anr-on-25-november-2005-ilr2006kar318",
+    "case_name": "The Commissioner, Bangalore ... vs State Of Karnataka And Anr. on 25 November, 2005",
+    "citation": "ILR2006KAR318",
+    "court": [
+      1048
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "t-k-ananda-sayanan-vs-the-joint-registrar-co-operative-on-5-september-2007-2007-5-ctc1",
+    "case_name": "T.K. Ananda Sayanan vs The Joint Registrar Co-Operative ... on 5 September, 2007",
+    "citation": "2007(5)CTC1",
+    "court": [
+      1746,
+      645,
+      1953
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "jakir-hussain-kosangi-and-others-vs-state-of-andhra-pradesh-represented-by-on-4-july-2017-",
+    "case_name": "Jakir Hussain Kosangi And Others vs State Of Andhra Pradesh, Represented By ... on 4 July, 2017",
+    "citation": "Unknown citation",
+    "court": [
+      1175
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "sumpurnanand-vs-state-of-u-p-and-2-others-on-26-october-2018-aironline-2018-all-4880",
+    "case_name": "Sumpurnanand vs State Of U.P. And 2 Others on 26 October, 2018",
+    "citation": "AIRONLINE 2018 ALL 4880",
+    "court": [
+      11
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "standard-chartered-grindlays-bank-ltd-vs-govind-phopale-and-anr-on-3-september-2002-2003-2",
+    "case_name": "Standard Chartered Grindlays Bank Ltd. vs Govind Phopale And Anr. on 3 September, 2002",
+    "citation": "2003(2)BOMCR311",
+    "court": [
+      471
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "kamaldin-ors-vs-cbi-on-23-november-2011-unknown-citation",
+    "case_name": "Kamaldin & Ors. vs Cbi on 23 November, 2011",
+    "citation": "Unknown citation",
+    "court": [
+      718
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "dashrath-rupsingh-rathod-vs-state-of-maharashtra-anr-on-1-august-2014-air-2014-supreme-cou",
+    "case_name": "Dashrath Rupsingh Rathod vs State Of Maharashtra & Anr on 1 August, 2014",
+    "citation": "AIR 2014 SUPREME COURT 3519",
+    "court": [
+      722,
+      730,
+      1439
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "suresh-chandra-goyal-vs-amit-singhal-on-14-may-2015-unknown-citation",
+    "case_name": "Suresh Chandra Goyal vs Amit Singhal on 14 May, 2015",
+    "citation": "Unknown citation",
+    "court": [
+      733
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "credential-leasing-credits-ltd-vs-shruti-investments-anr-on-29-june-2015-unknown-citation",
+    "case_name": "Credential Leasing & Credits Ltd. vs Shruti Investments & Anr. on 29 June, 2015",
+    "citation": "Unknown citation",
+    "court": [
+      733
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "kusum-ingots-and-alloys-ltd-vs-pennar-peterson-securities-ltd-and-ors-on-23-february-2000-",
+    "case_name": "Kusum Ingots And Alloys Ltd vs Pennar Peterson Securities Ltd. And Ors on 23 February, 2000",
+    "citation": "AIR 2000 SUPREME COURT 954",
+    "court": [
+      2204,
+      2211
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "yogendra-pratap-singh-vs-savitri-pandey-anr-on-19-september-2014-air-2015-supreme-court-15",
+    "case_name": "Yogendra Pratap Singh vs Savitri Pandey & Anr on 19 September, 2014",
+    "citation": "AIR 2015 SUPREME COURT 157",
+    "court": [
+      1730,
+      1143,
+      1632
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "hdfc-bank-limited-vs-amit-kumar-singh-on-22-may-2009-air-2010-noc-407-del",
+    "case_name": "Hdfc Bank Limited vs Amit Kumar Singh on 22 May, 2009",
+    "citation": "AIR 2010 (NOC) 407 (DEL.)",
+    "court": [
+      701
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "dayawati-vs-yogesh-kumar-gosain-on-17-october-2017-unknown-citation",
+    "case_name": "Dayawati vs Yogesh Kumar Gosain on 17 October, 2017",
+    "citation": "Unknown citation",
+    "court": [
+      634
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "ge-capital-transportation-financial-vs-rahisuddin-khan-on-9-september-2011-unknown-citatio",
+    "case_name": "Ge Capital Transportation Financial ... vs Rahisuddin Khan on 9 September, 2011",
+    "citation": "Unknown citation",
+    "court": [
+      718
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "m-s-gimpex-private-limited-vs-manoj-goel-on-8-october-2021-aironline-2021-sc-865",
+    "case_name": "M/S Gimpex Private Limited vs Manoj Goel on 8 October, 2021",
+    "citation": "AIRONLINE 2021 SC 865",
+    "court": [
+      991,
+      302,
+      429
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "icon-buildcon-pvt-ltd-vs-aggarwal-developers-pvt-ltd-ors-on-23-april-2014-unknown-citation",
+    "case_name": "Icon Buildcon Pvt.Ltd. vs Aggarwal Developers Pvt. Ltd. & Ors. on 23 April, 2014",
+    "citation": "Unknown citation",
+    "court": [
+      701
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "ankit-bharti-vs-state-of-u-p-and-another-on-2-march-2020-aironline-2020-all-694",
+    "case_name": "Ankit Bharti vs State Of U.P. And Another on 2 March, 2020",
+    "citation": "AIRONLINE 2020 ALL 694",
+    "court": [
+      1749,
+      208,
+      277,
+      322,
+      178
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "mohammad-zaid-vs-state-of-u-p-and-another-on-24-may-2023-unknown-citation",
+    "case_name": "Mohammad Zaid vs State Of U.P. And Another on 24 May, 2023",
+    "citation": "Unknown citation",
+    "court": [
+      174,
+      226
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "rajesh-kumar-sharma-vs-c-b-i-on-9-december-2022-unknown-citation",
+    "case_name": "Rajesh Kumar Sharma vs C.B.I. on 9 December, 2022",
+    "citation": "Unknown citation",
+    "court": [
+      226
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "dasarath-ray-dipjyoti-roy-vs-the-state-of-assam-on-29-july-2024-unknown-citation",
+    "case_name": "Dasarath Ray @ Dipjyoti Roy vs The State Of Assam on 29 July, 2024",
+    "citation": "Unknown citation",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "rohit-kumar-yadav-vs-the-state-of-bihar-on-12-september-2025-unknown-citation",
+    "case_name": "Rohit Kumar Yadav vs The State Of Bihar on 12 September, 2025",
+    "citation": "Unknown citation",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "umar-ansari-vs-state-of-u-p-on-19-december-2023-unknown-citation",
+    "case_name": "Umar Ansari vs State Of U.P. on 19 December, 2023",
+    "citation": "Unknown citation",
+    "court": [
+      226
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "dr-sameer-narayanrao-paltewar-vs-the-state-of-maharashtra-thr-police-on-21-august-2021-air",
+    "case_name": "Dr. Sameer Narayanrao Paltewar vs The State Of Maharashtra, Thr. Police ... on 21 August, 2021",
+    "citation": "AIRONLINE 2021 BOM 3037",
+    "court": [
+      450
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "rajesh-kumar-vs-state-of-u-p-and-another-on-2-july-2024-unknown-citation",
+    "case_name": "Rajesh Kumar vs State Of U.P. And Another on 2 July, 2024",
+    "citation": "Unknown citation",
+    "court": [
+      183
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "siddharam-satlingappa-mhetre-vs-state-of-maharashtra-and-ors-on-2-december-2010-air-2011-s",
+    "case_name": "Siddharam Satlingappa Mhetre vs State Of Maharashtra And Ors on 2 December, 2010",
+    "citation": "AIR 2011 SUPREME COURT 312",
+    "court": [
+      1920,
+      904
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "m-s-neeharika-infrastructure-pvt-vs-the-state-of-maharashtra-on-13-april-2021-air-2021-sup",
+    "case_name": "M/S Neeharika, Infrastructure Pvt. ... vs The State Of Maharashtra on 13 April, 2021",
+    "citation": "AIR 2021 SUPREME COURT 1918",
+    "court": [
+      709,
+      835,
+      429
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "m-s-tamun-impex-company-private-vs-ozone-projects-private-limited-on-12-december-2018-air-",
+    "case_name": "M/S.Tamun Impex Company Private ... vs Ozone Projects Private Limited on 12 December, 2018",
+    "citation": "AIR 2019 (NOC) 447 (MAD.)",
+    "court": [
+      1334
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "haryana-co-operative-societies-act-1984-unknown-citation",
+    "case_name": "Haryana Co-operative Societies Act, 1984",
+    "citation": "Unknown citation",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "maharao-sahib-shri-bhim-singhji-ors-vs-union-of-india-uoi-and-ors-on-13-november-1980-air1",
+    "case_name": "Maharao Sahib Shri Bhim Singhji Ors. vs Union Of India (Uoi) And Ors. on 13 November, 1980",
+    "citation": "AIR1981SC234",
+    "court": [
+      2098,
+      2161,
+      1757,
+      2158,
+      2149
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "m-s-hotz-industries-pvt-ltd-vs-dr-ravi-singh-since-deceased-through-on-28-february-2018-ai",
+    "case_name": "M/S Hotz Industries Pvt. Ltd. vs Dr. Ravi Singh (Since Deceased Through ... on 28 February, 2018",
+    "citation": "AIRONLINE 2018 DEL 3329",
+    "court": [
+      726
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "bengal-nagpur-ry-co-ltd-vs-ruttanji-ramji-and-ors-on-23-may-1934-air1935cal347",
+    "case_name": "Bengal Nagpur Ry. Co. Ltd. vs Ruttanji Ramji And Ors. on 23 May, 1934",
+    "citation": "AIR1935CAL347",
+    "court": "Unknown Court",
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "ritu-saxena-vs-j-s-grover-and-another-on-17-july-2018-unknown-citation",
+    "case_name": "Ritu Saxena vs J.S. Grover And Another on 17 July, 2018",
+    "citation": "Unknown citation",
+    "court": [
+      726
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "farzana-ranjan-vs-preeti-arora-on-9-july-2018-aironline-2018-del-3300",
+    "case_name": "Farzana Ranjan vs Preeti Arora on 9 July, 2018",
+    "citation": "AIRONLINE 2018 DEL 3300",
+    "court": [
+      726
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "maharashtra-state-electricity-board-vs-sterlite-industries-india-ltd-on-17-february-2000-a",
+    "case_name": "Maharashtra State Electricity Board, ... vs Sterlite Industries (India) Ltd. on 17 February, 2000",
+    "citation": "AIR2000BOM204",
+    "court": [
+      511
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "rajender-kumar-vs-rama-bala-gupta-on-14-january-2019-aironline-2019-del-67",
+    "case_name": "Rajender Kumar vs Rama Bala Gupta on 14 January, 2019",
+    "citation": "AIRONLINE 2019 DEL 67",
+    "court": [
+      726
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  },
+  {
+    "id": "dr-kimti-lal-vs-harpal-singh-anr-on-26-september-2018-aironline-2018-del-1855",
+    "case_name": "Dr. Kimti Lal vs Harpal Singh & Anr on 26 September, 2018",
+    "citation": "AIRONLINE 2018 DEL 1855",
+    "court": [
+      726
+    ],
+    "year": 0,
+    "summary": "Summary unavailable from source",
+    "key_sections": [],
+    "category": "civil",
+    "tags": [],
+    "source_url": ""
+  }
+]

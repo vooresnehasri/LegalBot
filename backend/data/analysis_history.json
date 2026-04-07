@@ -1,0 +1,337 @@
+[
+  {
+    "id": "analysis_1772202402598",
+    "created_at": "2026-02-27T14:26:42.598Z",
+    "document_type": "FIR",
+    "category": "criminal",
+    "predicted_sections": [
+      "CrPC 154"
+    ],
+    "risk_analysis": {
+      "risk_level": "low",
+      "reason": "No strong high-risk indicators detected, but legal review is still recommended."
+    },
+    "summary": "Complainant: Ramesh Kumar, Hyderabad. Date: 12/07/2022, Time: 9:30 PM, Location: Tank Bund, Hyderabad. Incident: A rider named XYZ was driving a bike in an intoxicated condition and nearly caused a collision. Vehicle: Bike, number TS09AB1234. Relief sought: Register FIR and take action under applicable law.",
+    "cited_sources": [
+      {
+        "id": "rajesh-kumar-sharma-vs-c-b-i-on-9-december-2022-unknown-citation",
+        "type": "judgment",
+        "title": "Rajesh Kumar Sharma vs C.B.I. on 9 December, 2022 (Unknown citation)",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 3,
+        "ref": "S1"
+      },
+      {
+        "id": "rohit-kumar-yadav-vs-the-state-of-bihar-on-12-september-2025-unknown-citation",
+        "type": "judgment",
+        "title": "Rohit Kumar Yadav vs The State Of Bihar on 12 September, 2025 (Unknown citation)",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 2,
+        "ref": "S2"
+      },
+      {
+        "id": 339747,
+        "type": "statute",
+        "title": "Indian Contract Act, 1872 - Section 73",
+        "snippet": "<b>Section</b> <b>73</b> in The <b>Indian</b> <b>Contract</b> <b>Act</b>, 1872 \n\n  <b>73</b>. Compensation for loss or damage caused by breach of <b>contract</b>.— \n  When a <b>contract</b> has been broken",
+        "source_url": "https://indiankanoon.org/doc/339747/",
+        "score": 1,
+        "ref": "S3"
+      },
+      {
+        "id": "ganesh-chandra-bhatt-vs-district-magistrate-almora-and-others-on-12-march-1993-air1993all2",
+        "type": "judgment",
+        "title": "Ganesh Chandra Bhatt vs District Magistrate, Almora And Others on 12 March, 1993 (AIR1993ALL291)",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 1,
+        "ref": "S4"
+      },
+      {
+        "id": "ashok-kumar-dixit-vs-state-of-u-p-and-anr-on-5-march-1987-air1987all235",
+        "type": "judgment",
+        "title": "Ashok Kumar Dixit vs State Of U.P. And Anr. on 5 March, 1987 (AIR1987ALL235)",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 1,
+        "ref": "S5"
+      }
+    ],
+    "issues_found": [
+      "Label signal: 2"
+    ],
+    "ontology_matches": []
+  },
+  {
+    "id": "analysis_1772202659243",
+    "created_at": "2026-02-27T14:30:59.243Z",
+    "document_type": "Contract",
+    "category": "civil",
+    "predicted_sections": [
+      "Contract Act 73",
+      "Contract Act 74"
+    ],
+    "risk_analysis": {
+      "risk_level": "low",
+      "reason": "No strong high-risk indicators detected, but legal review is still recommended. The contract includes a termination clause with 30 days notice and limited liability, which may reduce potential risks."
+    },
+    "summary": "SERVICE AGREEMENT between Alpha Tech Pvt Ltd and Beta Solutions for development and maintenance of a legal document portal, with a payment of INR 5,00,000 in milestones and a termination clause with 30 days notice.",
+    "cited_sources": [
+      {
+        "id": 339747,
+        "type": "statute",
+        "title": "Indian Contract Act, 1872 - Section 73",
+        "snippet": "<b>Section</b> <b>73</b> in The <b>Indian</b> <b>Contract</b> <b>Act</b>, 1872 \n\n  <b>73</b>. Compensation for loss or damage caused by breach of <b>contract</b>.— \n  When a <b>contract</b> has been broken",
+        "source_url": "https://indiankanoon.org/doc/339747/",
+        "score": 2,
+        "ref": "S1"
+      },
+      {
+        "id": 1941714,
+        "type": "statute",
+        "title": "Indian Contract Act, 1872 - Section 74",
+        "snippet": "<b>Section</b> <b>74</b> in The <b>Indian</b> <b>Contract</b> <b>Act</b>, 1872 \n\n  <b>74</b>. Compensation for breach of <b>contract</b> where penalty stipulated for.- \n  When a <b>contract</b> has been broken",
+        "source_url": "https://indiankanoon.org/doc/1941714/",
+        "score": 2,
+        "ref": "S2"
+      },
+      {
+        "id": "hdfc-bank-limited-vs-amit-kumar-singh-on-22-may-2009-air-2010-noc-407-del",
+        "type": "judgment",
+        "title": "Hdfc Bank Limited vs Amit Kumar Singh on 22 May, 2009 (AIR 2010 (NOC) 407 (DEL.))",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 2,
+        "ref": "S3"
+      },
+      {
+        "id": "icon-buildcon-pvt-ltd-vs-aggarwal-developers-pvt-ltd-ors-on-23-april-2014-unknown-citation",
+        "type": "judgment",
+        "title": "Icon Buildcon Pvt.Ltd. vs Aggarwal Developers Pvt. Ltd. & Ors. on 23 April, 2014 (Unknown citation)",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 2,
+        "ref": "S4"
+      },
+      {
+        "id": "m-s-hotz-industries-pvt-ltd-vs-dr-ravi-singh-since-deceased-through-on-28-february-2018-ai",
+        "type": "judgment",
+        "title": "M/S Hotz Industries Pvt. Ltd. vs Dr. Ravi Singh (Since Deceased Through ... on 28 February, 2018 (AIRONLINE 2018 DEL 3329)",
+        "snippet": "Summary unavailable from source",
+        "source_url": "",
+        "score": 2,
+        "ref": "S5"
+      }
+    ],
+    "issues_found": [
+      "Label signal: 4"
+    ],
+    "ontology_matches": []
+  },
+  {
+    "id": "analysis_1772204831853",
+    "created_at": "2026-02-27T15:07:11.853Z",
+    "document_type": "Academic Document",
+    "category": "Legal",
+    "predicted_sections": [
+      "IPC 420",
+      "CrPC 154",
+      "CrPC 438",
+      "Contract Act 73",
+      "Contract Act 74",
+      "Article 21"
+    ],
+    "risk_analysis": {
+      "risk_level": "Low",
+      "reason": "The document is an academic paper and does not contain any high-risk legal indicators."
+    },
+    "summary": "The document is a academic paper on drafting, pleadings, and conveyance, and discusses the importance of peace in society, the role of law in maintaining peace, and the difference between substantive and procedural law.",
+    "cited_sources": [
+      {
+        "id": 1783708,
+        "type": "statute",
+        "title": "Code of Criminal Procedure, 1973 - Section 438",
+        "snippet": "<b>section</b> (3) of <b>section</b> 376 or <b>section</b> 376AB or <b>section</b> 376DA or <b>section</b> 376DB of the Indian Penal <b>Code</b>.]  [Inserted by <b>Criminal</b> Law (Amendment ... <b>Code</b> of <b>Criminal</b> <b>Procedure</b>, 1973 as amended in its application to Uttar Pradesh, after <b>Section</b> 437-A the following <b>section</b> shall be inserted, namely:-  \"<b>438</b>",
+        "source_url": "https://indiankanoon.org/doc/1783708/",
+        "score": 2079,
+        "ref": "S1"
+      },
+      {
+        "id": 1199182,
+        "type": "statute",
+        "title": "Constitution of India - Section Article 21",
+        "snippet": "<b>Article</b> <b>21</b> in <b>Constitution</b> of <b>India</b> \n\n  <b>21</b>. Protection of life and personal liberty \n  No person shall be deprived of his life or personal liberty except ... according to procedure established by law.    Editorial Comment  - <b>Article</b> <b>21</b> of the Indian <b>Constitution</b> guarantees the fundamental right to protection of life and personal liberty",
+        "source_url": "https://indiankanoon.org/doc/1199182/",
+        "score": 1982,
+        "ref": "S2"
+      },
+      {
+        "id": 1833006,
+        "type": "statute",
+        "title": "Indian Penal Code, 1860 - Section 497",
+        "snippet": "autonomy falls within the area of personal liberty under <b>Article</b> <b>21</b> of <b>Constitution</b> of <b>India</b>. Trust and respect are two essentials of a marriage. When ... <b>Article</b> 14 of the Indian <b>Constitution</b> and it also violates the non-discrimination clause of <b>Article</b> 15 of the <b>Constitution</b> of <b>India</b>. This section also",
+        "source_url": "https://indiankanoon.org/doc/1833006/",
+        "score": 1304,
+        "ref": "S3"
+      },
+      {
+        "id": 339747,
+        "type": "statute",
+        "title": "Indian Contract Act, 1872 - Section 73",
+        "snippet": "<b>Section</b> <b>73</b> in The <b>Indian</b> <b>Contract</b> <b>Act</b>, 1872 \n\n  <b>73</b>. Compensation for loss or damage caused by breach of <b>contract</b>.— \n  When a <b>contract</b> has been broken",
+        "source_url": "https://indiankanoon.org/doc/339747/",
+        "score": 1256,
+        "ref": "S4"
+      },
+      {
+        "id": 152547536,
+        "type": "statute",
+        "title": "Constitution of India - Section 1",
+        "snippet": "<b>Constitution</b> (Eighty-sixth Amendment) Act, 2002]  [<b>Constitution</b> (Eighty-sixth Amendment) Act, 2002 is at Annexure 1.]  inserted <b>Article</b> <b>21</b>-A in the <b>Constitution</b> of <b>India</b> ... most compelling reasons for the insertion of <b>Article</b> <b>21</b>-A in the <b>Constitution</b> of <b>India</b> and the passage",
+        "source_url": "https://indiankanoon.org/doc/152547536/",
+        "score": 1001,
+        "ref": "S5"
+      }
+    ],
+    "issues_found": [],
+    "ontology_matches": []
+  },
+  {
+    "id": "analysis_1772208290321",
+    "created_at": "2026-02-27T16:04:50.321Z",
+    "document_type": "Academic Document",
+    "category": "Legal",
+    "predicted_sections": [
+      "IPC 420",
+      "CrPC 154",
+      "CrPC 438",
+      "Contract Act 73",
+      "Contract Act 74",
+      "Article 21"
+    ],
+    "risk_analysis": {
+      "risk_level": "Low",
+      "reason": "The document is an academic paper and does not contain any high-risk legal indicators."
+    },
+    "summary": "The document is a academic paper on legal drafting, pleadings, and conveyance, discussing the importance of peace in society, the role of law, and the distinction between substantive and procedural law.",
+    "cited_sources": [
+      {
+        "id": 1783708,
+        "type": "statute",
+        "title": "Code of Criminal Procedure, 1973 - Section 438",
+        "snippet": "<b>section</b> (3) of <b>section</b> 376 or <b>section</b> 376AB or <b>section</b> 376DA or <b>section</b> 376DB of the Indian Penal <b>Code</b>.]  [Inserted by <b>Criminal</b> Law (Amendment ... <b>Code</b> of <b>Criminal</b> <b>Procedure</b>, 1973 as amended in its application to Uttar Pradesh, after <b>Section</b> 437-A the following <b>section</b> shall be inserted, namely:-  \"<b>438</b>",
+        "source_url": "https://indiankanoon.org/doc/1783708/",
+        "score": 2079,
+        "ref": "S1"
+      },
+      {
+        "id": 1199182,
+        "type": "statute",
+        "title": "Constitution of India - Section Article 21",
+        "snippet": "<b>Article</b> <b>21</b> in <b>Constitution</b> of <b>India</b> \n\n  <b>21</b>. Protection of life and personal liberty \n  No person shall be deprived of his life or personal liberty except ... according to procedure established by law.    Editorial Comment  - <b>Article</b> <b>21</b> of the Indian <b>Constitution</b> guarantees the fundamental right to protection of life and personal liberty",
+        "source_url": "https://indiankanoon.org/doc/1199182/",
+        "score": 1982,
+        "ref": "S2"
+      },
+      {
+        "id": 1833006,
+        "type": "statute",
+        "title": "Indian Penal Code, 1860 - Section 497",
+        "snippet": "autonomy falls within the area of personal liberty under <b>Article</b> <b>21</b> of <b>Constitution</b> of <b>India</b>. Trust and respect are two essentials of a marriage. When ... <b>Article</b> 14 of the Indian <b>Constitution</b> and it also violates the non-discrimination clause of <b>Article</b> 15 of the <b>Constitution</b> of <b>India</b>. This section also",
+        "source_url": "https://indiankanoon.org/doc/1833006/",
+        "score": 1304,
+        "ref": "S3"
+      },
+      {
+        "id": 339747,
+        "type": "statute",
+        "title": "Indian Contract Act, 1872 - Section 73",
+        "snippet": "<b>Section</b> <b>73</b> in The <b>Indian</b> <b>Contract</b> <b>Act</b>, 1872 \n\n  <b>73</b>. Compensation for loss or damage caused by breach of <b>contract</b>.— \n  When a <b>contract</b> has been broken",
+        "source_url": "https://indiankanoon.org/doc/339747/",
+        "score": 1256,
+        "ref": "S4"
+      },
+      {
+        "id": 152547536,
+        "type": "statute",
+        "title": "Constitution of India - Section 1",
+        "snippet": "<b>Constitution</b> (Eighty-sixth Amendment) Act, 2002]  [<b>Constitution</b> (Eighty-sixth Amendment) Act, 2002 is at Annexure 1.]  inserted <b>Article</b> <b>21</b>-A in the <b>Constitution</b> of <b>India</b> ... most compelling reasons for the insertion of <b>Article</b> <b>21</b>-A in the <b>Constitution</b> of <b>India</b> and the passage",
+        "source_url": "https://indiankanoon.org/doc/152547536/",
+        "score": 1001,
+        "ref": "S5"
+      }
+    ],
+    "issues_found": [],
+    "ontology_matches": []
+  },
+  {
+    "id": "analysis_1772252596361",
+    "created_at": "2026-02-28T04:23:16.361Z",
+    "document_type": "Academic Paper",
+    "category": "Legal",
+    "predicted_sections": [
+      "IPC 420",
+      "CrPC 154",
+      "CrPC 438",
+      "Contract Act 73",
+      "Contract Act 74",
+      "Article 21"
+    ],
+    "risk_analysis": {
+      "risk_level": "Low",
+      "reason": "The document is an academic paper and does not contain any high-risk legal indicators."
+    },
+    "summary": "The document is a paper on drafting, pleadings, and conveyance, prepared by students of the Faculty of Law, University of Delhi. It discusses the importance of peace in society, the role of law in maintaining peace, and the difference between substantive and procedural law.",
+    "cited_sources": [
+      {
+        "id": 1783708,
+        "type": "statute",
+        "title": "Code of Criminal Procedure, 1973 - Section 438",
+        "snippet": "<b>section</b> (3) of <b>section</b> 376 or <b>section</b> 376AB or <b>section</b> 376DA or <b>section</b> 376DB of the Indian Penal <b>Code</b>.]  [Inserted by <b>Criminal</b> Law (Amendment ... <b>Code</b> of <b>Criminal</b> <b>Procedure</b>, 1973 as amended in its application to Uttar Pradesh, after <b>Section</b> 437-A the following <b>section</b> shall be inserted, namely:-  \"<b>438</b>",
+        "source_url": "https://indiankanoon.org/doc/1783708/",
+        "score": 2079,
+        "ref": "S1"
+      },
+      {
+        "id": 1199182,
+        "type": "statute",
+        "title": "Constitution of India - Section Article 21",
+        "snippet": "<b>Article</b> <b>21</b> in <b>Constitution</b> of <b>India</b> \n\n  <b>21</b>. Protection of life and personal liberty \n  No person shall be deprived of his life or personal liberty except ... according to procedure established by law.    Editorial Comment  - <b>Article</b> <b>21</b> of the Indian <b>Constitution</b> guarantees the fundamental right to protection of life and personal liberty",
+        "source_url": "https://indiankanoon.org/doc/1199182/",
+        "score": 1982,
+        "ref": "S2"
+      },
+      {
+        "id": 1833006,
+        "type": "statute",
+        "title": "Indian Penal Code, 1860 - Section 497",
+        "snippet": "autonomy falls within the area of personal liberty under <b>Article</b> <b>21</b> of <b>Constitution</b> of <b>India</b>. Trust and respect are two essentials of a marriage. When ... <b>Article</b> 14 of the Indian <b>Constitution</b> and it also violates the non-discrimination clause of <b>Article</b> 15 of the <b>Constitution</b> of <b>India</b>. This section also",
+        "source_url": "https://indiankanoon.org/doc/1833006/",
+        "score": 1304,
+        "ref": "S3"
+      },
+      {
+        "id": 339747,
+        "type": "statute",
+        "title": "Indian Contract Act, 1872 - Section 73",
+        "snippet": "<b>Section</b> <b>73</b> in The <b>Indian</b> <b>Contract</b> <b>Act</b>, 1872 \n\n  <b>73</b>. Compensation for loss or damage caused by breach of <b>contract</b>.— \n  When a <b>contract</b> has been broken",
+        "source_url": "https://indiankanoon.org/doc/339747/",
+        "score": 1256,
+        "ref": "S4"
+      },
+      {
+        "id": 152547536,
+        "type": "statute",
+        "title": "Constitution of India - Section 1",
+        "snippet": "<b>Constitution</b> (Eighty-sixth Amendment) Act, 2002]  [<b>Constitution</b> (Eighty-sixth Amendment) Act, 2002 is at Annexure 1.]  inserted <b>Article</b> <b>21</b>-A in the <b>Constitution</b> of <b>India</b> ... most compelling reasons for the insertion of <b>Article</b> <b>21</b>-A in the <b>Constitution</b> of <b>India</b> and the passage",
+        "source_url": "https://indiankanoon.org/doc/152547536/",
+        "score": 1001,
+        "ref": "S5"
+      }
+    ],
+    "issues_found": [],
+    "ontology_matches": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gls-affidavit",
+    "term_en": "Affidavit",
+    "term_hi": "शपथपत्र",
+    "domain": "litigation",
+    "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+    "id": "gls-bail",
+    "term_en": "Bail",
+    "term_hi": "जमानत",
+    "domain": "criminal",
+    "source_url": "https://ecourts.gov.in/"
+  },
+  {
+    "id": "gls-jurisdiction",
+    "term_en": "Jurisdiction",
+    "term_hi": "अधिकार क्षेत्र",
+    "domain": "procedure",
+    "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+    "id": "gls-indemnity",
+    "term_en": "Indemnity",
+    "term_hi": "क्षतिपूर्ति",
+    "domain": "contract",
+    "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+    "id": "gls-fundamental-rights",
+    "term_en": "Fundamental Rights",
+    "term_hi": "मौलिक अधिकार",
+    "domain": "constitutional",
+    "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+    "id": "gls-anticipatory-bail",
+    "term_en": "Anticipatory Bail",
+    "term_hi": "अग्रिम जमानत",
+    "domain": "criminal",
+    "source_url": "https://ecourts.gov.in/"
+  }
+]

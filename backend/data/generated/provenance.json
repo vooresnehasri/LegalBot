@@ -1,0 +1,56 @@
+[
+  {
+    "source_id": "official_ecourts_judgments",
+    "dataset_type": "judgments",
+    "raw_records": 8,
+    "normalized_records": 8,
+    "license": "eCourts / official portal terms",
+    "source_url": "https://ecourts.gov.in/",
+    "ingested_at": "2026-02-27T11:38:33.427Z"
+  },
+  {
+    "source_id": "licensed_indiankanoon_search_api",
+    "dataset_type": "judgments",
+    "raw_records": 40,
+    "normalized_records": 40,
+    "license": "Indian Kanoon API terms",
+    "source_url": "https://api.indiankanoon.org/documentation/",
+    "ingested_at": "2026-02-27T11:38:36.220Z"
+  },
+  {
+    "source_id": "licensed_indiankanoon_laws_api",
+    "dataset_type": "statutes",
+    "raw_records": 60,
+    "normalized_records": 8,
+    "license": "Indian Kanoon API terms",
+    "source_url": "https://api.indiankanoon.org/documentation/",
+    "ingested_at": "2026-02-27T11:38:37.781Z"
+  },
+  {
+    "source_id": "public_forms_templates_dataset",
+    "dataset_type": "templates",
+    "raw_records": 3,
+    "normalized_records": 3,
+    "license": "eCourts / official portal terms",
+    "source_url": "https://ecourts.gov.in/ecourts_home/forms/",
+    "ingested_at": "2026-02-27T11:38:38.933Z"
+  },
+  {
+    "source_id": "public_risk_labels_dataset",
+    "dataset_type": "risk_labels",
+    "raw_records": 100,
+    "normalized_records": 100,
+    "license": "Source-specific open/public license",
+    "source_url": "https://example.org/open-legal-risk-labels",
+    "ingested_at": "2026-02-27T11:38:39.872Z"
+  },
+  {
+    "source_id": "public_citation_graph_dataset",
+    "dataset_type": "citation_graph",
+    "raw_records": 444033,
+    "normalized_records": 74290,
+    "license": "Source-specific open/public license",
+    "source_url": "https://example.org/open-citation-graph",
+    "ingested_at": "2026-02-27T11:38:42.868Z"
+  }
+]

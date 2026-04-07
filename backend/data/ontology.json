@@ -1,0 +1,51 @@
+[
+  {
+    "key": "criminal",
+    "label": "Criminal Law",
+    "parent": null,
+    "aliases": [
+      "ipc",
+      "crpc",
+      "arrest",
+      "bail",
+      "offence"
+    ],
+    "source_url": "https://ecourts.gov.in/"
+  },
+  {
+    "key": "civil",
+    "label": "Civil Law",
+    "parent": null,
+    "aliases": [
+      "damages",
+      "compensation",
+      "injunction",
+      "decree"
+    ],
+    "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+    "key": "constitutional",
+    "label": "Constitutional Law",
+    "parent": null,
+    "aliases": [
+      "article 14",
+      "article 19",
+      "article 21",
+      "writ"
+    ],
+    "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+    "key": "contract",
+    "label": "Contract Law",
+    "parent": "civil",
+    "aliases": [
+      "agreement",
+      "breach",
+      "indemnity",
+      "liquidated damages"
+    ],
+    "source_url": "https://www.indiacode.nic.in/"
+  }
+]

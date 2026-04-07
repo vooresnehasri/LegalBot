@@ -1,0 +1,929 @@
+[
+  {
+    "id": "notice-to-california-subscribers-you-may-cancel-your-subscript",
+    "text": "notice to california subscribers : you may cancel your subscription , without penalty or obligation , at any time prior to midnight of the third business day following the date you subscribed . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-subscribed-using-your-apple-id-refunds-are-handled-by-a",
+    "text": "if you subscribed using your apple id , refunds are handled by apple , not tinder . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-wish-to-request-a-refund-please-visit-https-getsuppor",
+    "text": "if you wish to request a refund , please visit https://getsupport.apple.com . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-subscribed-using-your-google-play-store-account-or-throug",
+    "text": "if you subscribed using your google play store account or through tinder online : contact customer support \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "key-changes-in-this-version-we-ve-included-a-legal-notice-req",
+    "text": "key changes in this version : we 've included a legal notice required under california law regarding refunds and updated our legal name to match group , llc \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "for-a-summary-of-our-terms-of-use-go-to-summary-of-terms",
+    "text": "for a summary of our terms of use , go to summary of terms . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "welcome-to-tinder-operated-by-match-group-llc-us",
+    "text": "welcome to tinder , operated by match group , llc ( `` us , '' `` we , '' the `` company '' or `` tinder '' ) . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "acceptance-of-terms-of-use-agreement",
+    "text": "acceptance of terms of use agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "by-creating-a-tinder-account-or-by-using-the-tinder-imessage-app",
+    "text": "by creating a tinder account or by using the tinder imessage app ( `` tinder stacks '' ) , whether through a mobile device , mobile application or computer ( collectively , the `` service '' ) you agree to be bound by ( i ) these terms of use , ( ii ) our privacy policy and safety tips , each of which is incorporated by reference into this agreement , and ( iii ) any terms disclosed and agreed to by you if you purchase additional features , products or services we offer on the service ( collectively , this `` agreement '' ) . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 4"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-do-not-accept-and-agree-to-be-bound-by-all-of-the-terms-o",
+    "text": "if you do not accept and agree to be bound by all of the terms of this agreement , please do not use the service . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "we-may-make-changes-to-this-agreement-and-to-the-services-from-t",
+    "text": "we may make changes to this agreement and to the services from time to time . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 2"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "we-may-do-this-for-a-variety-of-reasons-including-to-reflect-cha",
+    "text": "we may do this for a variety of reasons including to reflect changes in or requirements of the law , new features , or changes in business practices . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "the-most-recent-version-of-this-agreement-will-be-posted-on-the",
+    "text": "the most recent version of this agreement will be posted on the services under settings and also on gotinder.com , and you should regularly check for the most recent version . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 2"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "the-most-recent-version-is-the-version-that-applies",
+    "text": "the most recent version is the version that applies . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-the-changes-include-material-changes-that-affect-your-rights",
+    "text": "if the changes include material changes that affect your rights or obligations , we will notify you in advance of the changes by reasonable means , which could include notification through the services or via email . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-continue-to-use-the-services-after-the-changes-become-eff",
+    "text": "if you continue to use the services after the changes become effective , then you agree to the revised agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 4"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "you-must-be-at-least-18-years-of-age-to-create-an-account-on-tin",
+    "text": "you must be at least 18 years of age to create an account on tinder and use the service . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "by-creating-an-account-and-using-the-service-you-represent-and",
+    "text": "by creating an account and using the service , you represent and warrant that : \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-can-form-a-binding-contract-with-tinder",
+    "text": "you can form a binding contract with tinder , \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-are-not-a-person-who-is-barred-from-using-the-service-under",
+    "text": "you are not a person who is barred from using the service under the laws of the united states or any other applicable jurisdiction -- meaning that you do not appear on the u.s. treasury department 's list of specially designated nationals or face any other similar prohibition , \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-will-comply-with-this-agreement-and-all-applicable-local-s",
+    "text": "you will comply with this agreement and all applicable local , state , national and international laws , rules and regulations , and \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-have-never-been-convicted-of-a-felony-and-that-you-are-not-r",
+    "text": "you have never been convicted of a felony and that you are not required to register as a sex offender with any state , federal or local sex offender registry . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "in-order-to-use-tinder-you-may-sign-in-using-your-facebook-log",
+    "text": "in order to use tinder , you may sign in using your facebook login . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-do-so-you-authorize-us-to-access-and-use-certain-facebo",
+    "text": "if you do so , you authorize us to access and use certain facebook account information , including but not limited to your public facebook profile and information about facebook friends you share in common with other tinder users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "for-more-information-regarding-the-information-we-collect-from-y",
+    "text": "for more information regarding the information we collect from you and how we use it , please consult our privacy policy . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-are-responsible-for-maintaining-the-confidentiality-of-your",
+    "text": "you are responsible for maintaining the confidentiality of your login credentials you use to sign up for tinder , and you are solely responsible for all activities that occur under those credentials . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-think-someone-has-gained-access-to-your-account-please",
+    "text": "if you think someone has gained access to your account , please immediately contact help@gotinder.com . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-stacks-is-an-imessage-app-that-allows-users-to-have-a-tin",
+    "text": "tinder stacks is an imessage app that allows users to have a tinder-like experience outside of tinder . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "through-tinder-stacks-you-can-select-photos-from-your-mobile-d",
+    "text": "through tinder stacks , you can select photos from your mobile device to create your own card stack to share with your contacts . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "contacts-who-have-tinder-stacks-will-be-able-to-vote-on-the-phot",
+    "text": "contacts who have tinder stacks will be able to vote on the photos by swiping right , swiping left or using the voting buttons . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-stacks-operates-separately-from-the-main-tinder-experienc",
+    "text": "tinder stacks operates separately from the main tinder experience , so when you use tinder stacks , you are n't creating an account , logging in with facebook , sharing your facebook details with us or creating a profile that will be shown on tinder . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "modifying-the-services-and-termination",
+    "text": "modifying the services and termination . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-is-always-striving-to-improve-the-services-and-bring-you",
+    "text": "tinder is always striving to improve the services and bring you additional functionality that you will find engaging and useful . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "this-means-we-may-add-new-product-features-or-enhancements-from",
+    "text": "this means we may add new product features or enhancements from time to time as well as remove some features , and if these actions do not materially affect your rights or obligations , we may not provide you with notice before taking them.we may even suspend the services entirely , in which event we will notify you in advance unless extenuating circumstances , such as safety or security concerns , prevent us from doing so . \n",
+    "document_type": "unknown",
+    "risk_level": "high",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 3",
+      "Label signal: 2",
+      "Label signal: 1"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "you-may-terminate-your-account-at-any-time-for-any-reason-by",
+    "text": "you may terminate your account at any time , for any reason , by following the instructions in `` settings '' in the service , however you will need to manage your in app purchases through your mobile device platform ( e.g. , itunes , google play ) . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-may-terminate-your-account-at-any-time-without-notice-if",
+    "text": "tinder may terminate your account at any time without notice if it believes that you have violated this agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 1"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "upon-such-termination-you-will-not-be-entitled-to-any-refund-f",
+    "text": "upon such termination , you will not be entitled to any refund for purchases . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "after-your-account-is-terminated-this-agreement-will-terminate",
+    "text": "after your account is terminated , this agreement will terminate , except that the following provisions will still apply to you and tinder : section 5 , section 6 , and sections 13 through 20 . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "safety-your-interactions-with-other-users",
+    "text": "safety ; your interactions with other users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "though-tinder-strives-to-encourage-a-respectful-user-experience",
+    "text": "though tinder strives to encourage a respectful user experience through features like the double opt-in that only allows users to communicate if they have both indicated interest in one another , it is not responsible for the conduct of any user on or off of the services . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 0"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "you-agree-to-use-caution-in-all-interactions-with-other-users",
+    "text": "you agree to use caution in all interactions with other users , particularly if you decide to communicate off the service or meet in person . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "in-addition-you-agree-to-review-and-follow-tinder-s-safety-ti",
+    "text": "in addition , you agree to review and follow tinder 's safety tips , located on gotinder.com , prior to using the service . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-should-not-provide-your-financial-information-for-example",
+    "text": "you should not provide your financial information ( for example , your credit card or bank account information ) , or wire or otherwise send money , to other users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-are-solely-responsible-for-your-interactions-with-other-user",
+    "text": "you are solely responsible for your interactions with other users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-understand-that-tinder-does-not-conduct-criminal-background",
+    "text": "you understand that tinder does not conduct criminal background checks on its users or otherwise inquire into the background of its users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-makes-no-representations-or-warranties-as-to-the-conduct",
+    "text": "tinder makes no representations or warranties as to the conduct of users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-reserves-the-right-to-conduct-any-criminal-background-che",
+    "text": "tinder reserves the right to conduct any criminal background check or other screenings ( such as sex offender register searches ) at any time using available public records . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-grants-you-a-personal-worldwide-royalty-free-non-as",
+    "text": "tinder grants you a personal , worldwide , royalty-free , non-assignable , nonexclusive , revocable , and non-sublicensable license to access and use the services . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "this-license-is-for-the-sole-purpose-of-letting-you-use-and-enjo",
+    "text": "this license is for the sole purpose of letting you use and enjoy the services ' benefits as intended by tinder and permitted by this agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "therefore-you-agree-not-to",
+    "text": "therefore , you agree not to : \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-the-service-or-any-content-contained-in-the-service-for-any",
+    "text": "use the service or any content contained in the service for any commercial purposes without our written consent . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "copy-modify-transmit-create-any-derivative-works-from-ma",
+    "text": "copy , modify , transmit , create any derivative works from , make use of , or reproduce in any way any copyrighted material , images , trademarks , trade names , service marks , or other intellectual property , content or proprietary information accessible through the service without tinder 's prior written consent . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "express-or-imply-that-any-statements-you-make-are-endorsed-by-ti",
+    "text": "express or imply that any statements you make are endorsed by tinder . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-any-robot-bot-spider-crawler-scraper-site-search-r",
+    "text": "use any robot , bot , spider , crawler , scraper , site search/retrieval application , proxy or other manual or automatic device , method or process to access , retrieve , index , `` data mine , '' or in any way reproduce or circumvent the navigational structure or presentation of the service or its contents . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-the-services-in-any-way-that-could-interfere-with-disrupt",
+    "text": "use the services in any way that could interfere with , disrupt or negatively affect the service or the servers or networks connected to the service . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "upload-viruses-or-other-malicious-code-or-otherwise-compromise-t",
+    "text": "upload viruses or other malicious code or otherwise compromise the security of the services . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "forge-headers-or-otherwise-manipulate-identifiers-in-order-to-di",
+    "text": "forge headers or otherwise manipulate identifiers in order to disguise the origin of any information transmitted to or through the service . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "frame-or-mirror-any-part-of-the-service-without-tind",
+    "text": "`` frame '' or `` mirror '' any part of the service without tinder 's prior written authorization . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-meta-tags-or-code-or-other-devices-containing-any-reference",
+    "text": "use meta tags or code or other devices containing any reference to tinder or the service ( or any trademark , trade name , service mark , logo or slogan of tinder ) to direct any person to any other website for any purpose . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "modify-adapt-sublicense-translate-sell-reverse-enginee",
+    "text": "modify , adapt , sublicense , translate , sell , reverse engineer , decipher , decompile or otherwise disassemble any portion of the service , or cause others to do so . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-or-develop-any-third-party-applications-that-interact-with-t",
+    "text": "use or develop any third-party applications that interact with the services or other users ' content or information without our written consent . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-access-or-publish-the-tinder-application-programming-int",
+    "text": "use , access , or publish the tinder application programming interface without our written consent . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "probe-scan-or-test-the-vulnerability-of-our-services-or-any-sy",
+    "text": "probe , scan or test the vulnerability of our services or any system or network . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "encourage-or-promote-any-activity-that-violates-this-agreement",
+    "text": "encourage or promote any activity that violates this agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "the-company-may-investigate-and-take-any-available-legal-action",
+    "text": "the company may investigate and take any available legal action in response to illegal and / or unauthorized uses of the service , including termination of your account . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 1"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "any-software-that-we-provide-you-may-automatically-download-and",
+    "text": "any software that we provide you may automatically download and install upgrades , updates , or other new features . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-may-be-able-to-adjust-these-automatic-downloads-through-your",
+    "text": "you may be able to adjust these automatic downloads through your device 's settings . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "by-creating-an-account-you-grant-to-tinder-a-worldwide-trans",
+    "text": "by creating an account , you grant to tinder a worldwide , transferable , sub-licensable , royalty-free , right and license to host , store , use , copy , display , reproduce , adapt , edit , publish , modify and distribute information you authorize us to access from facebook , as well as any information you post , upload , display or otherwise make available ( collectively , `` post '' ) on the service or transmit to other users ( collectively , `` content '' ) . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "our-license-to-your-content-is-subject-to-your-rights-under-appl",
+    "text": "our license to your content is subject to your rights under applicable law ( for example laws regarding personal data protection to the extent any content contains personal information as defined by those laws ) and is for the limited purpose of operating , developing , providing , and improving the service and researching and developing new ones . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-agree-that-any-content-you-place-or-that-you-authorize-us-to",
+    "text": "you agree that any content you place or that you authorize us to place on the service may be viewed by other users and may be viewed by any person visiting or participating in the service ( such as individuals who may receive shared content from other tinder users ) . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-agree-that-all-information-that-you-submit-upon-creation-of",
+    "text": "you agree that all information that you submit upon creation of your account , including information submitted from your facebook account , is accurate and truthful and you have the right to post the content on the service and grant the license to tinder above . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-understand-and-agree-that-we-may-monitor-or-review-any-conte",
+    "text": "you understand and agree that we may monitor or review any content you post as part of a service . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "we-may-delete-any-content-in-whole-or-in-part-that-in-our-so",
+    "text": "we may delete any content , in whole or in part , that in our sole judgment violates this agreement or may harm the reputation of the service . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 3"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "when-communicating-with-our-customer-care-representatives-you",
+    "text": "when communicating with our customer care representatives , you agree to be respectful and kind . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-we-feel-that-your-behavior-towards-any-of-our-customer-care-r",
+    "text": "if we feel that your behavior towards any of our customer care representatives or other employees is at any time threatening or offensive , we reserve the right to immediately terminate your account . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 1"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "in-consideration-for-tinder-allowing-you-to-use-the-services-y",
+    "text": "in consideration for tinder allowing you to use the services , you agree that we , our affiliates , and our third-party partners may place advertising on the services . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "by-submitting-suggestions-or-feedback-to-tinder-regarding-our-se",
+    "text": "by submitting suggestions or feedback to tinder regarding our services , you agree that tinder may use and share such feedback for any purpose without compensating you . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "you-agree-that-tinder-may-access-preserve-and-disclose-your-ac",
+    "text": "you agree that tinder may access , preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access , preservation or disclosure is reasonably necessary , such as to : ( i ) comply with legal process ; ( ii ) enforce this agreement ; ( iii ) respond to claims that any content violates the rights of third parties ; ( iv ) respond to your requests for customer service ; or ( v ) protect the rights , property or personal safety of the company or any other person . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "by-using-the-services-you-agree-that-you-will-not",
+    "text": "by using the services , you agree that you will not : \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-the-service-for-any-purpose-that-is-illegal-or-prohibited-by",
+    "text": "use the service for any purpose that is illegal or prohibited by this agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "spam-solicit-money-from-or-defraud-any-users",
+    "text": "spam , solicit money from or defraud any users . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "impersonate-any-person-or-entity-or-post-any-images-of-another-p",
+    "text": "impersonate any person or entity or post any images of another person without his or her permission . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "bully-stalk-intimidate-harass-or-defame-any-person",
+    "text": "bully , `` stalk , '' intimidate , harass or defame any person . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "post-any-content-that-violates-or-infringes-anyone-s-rights-i",
+    "text": "post any content that violates or infringes anyone 's rights , including rights of publicity , privacy , copyright , trademark or other intellectual property or contract right . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "post-any-content-that-is-hate-speech-threatening-sexually-ex",
+    "text": "post any content that is hate speech , threatening , sexually explicit or pornographic ; incites violence ; or contains nudity or graphic or gratuitous violence . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "post-any-content-that-promotes-racism-bigotry-hatred-or-phys",
+    "text": "post any content that promotes racism , bigotry , hatred or physical harm of any kind against any group or individual . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "solicit-passwords-for-any-purpose-or-personal-identifying-info",
+    "text": "solicit passwords for any purpose , or personal identifying information for commercial or unlawful purposes from other users or disseminate another person 's personal information without his or her permission . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "use-another-user-s-account",
+    "text": "use another user 's account . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "create-another-account-if-we-have-already-terminated-your-accoun",
+    "text": "create another account if we have already terminated your account , unless you have our permission . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "tinder-reserves-the-right-to-investigate-and-or-terminate-your",
+    "text": "tinder reserves the right to investigate and / or terminate your account without a refund of any purchases if you have misused the service or behaved in a way that tinder regards as inappropriate or unlawful , including actions or communications that occur off the service but involve users you meet through the service . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 1"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "although-tinder-reserves-the-right-to-review-and-remove-content",
+    "text": "although tinder reserves the right to review and remove content that violates this agreement , such content is the sole responsibility of the user who posts it , and tinder can not guarantee that all content will comply with this agreement . \n",
+    "document_type": "unknown",
+    "risk_level": "medium",
+    "applicable_sections": [],
+    "issues_found": [
+      "Label signal: 3",
+      "Label signal: 0"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-see-content-on-the-services-that-violates-this-agreement",
+    "text": "if you see content on the services that violates this agreement , please report it within the services or via help@gotinder.com . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "from-time-to-time-tinder-may-offer-products-and-services-for-p",
+    "text": "from time to time , tinder may offer products and services for purchase ( `` in app purchases '' ) through itunes , google play or other application platforms authorized by tinder ( each , a `` software store '' ) . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-choose-to-make-an-in-app-purchase-you-will-be-prompted",
+    "text": "if you choose to make an in app purchase , you will be prompted to enter details for your account with your software store ( `` your iap account '' ) , and your iap account will be charged for the in app purchase in accordance with the terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your iap account . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "some-software-stores-may-charge-you-sales-tax-depending-on-whe",
+    "text": "some software stores may charge you sales tax , depending on where you live . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-purchase-an-auto-recurring-periodic-subscription-through",
+    "text": "if you purchase an auto-recurring periodic subscription through an in app purchase , your iap account will be billed continuously for the subscription until you cancel . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "after-your-initial-subscription-commitment-period-and-again-af",
+    "text": "after your initial subscription commitment period , and again after any subsequent subscription period , your subscription will automatically continue for an additional equivalent period , at the price you agreed to when subscribing . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-do-not-wish-your-subscription-to-renew-automatically-or",
+    "text": "if you do not wish your subscription to renew automatically , or if you want to change or terminate your subscription , you will need to log in to your iap account and follow instructions to cancel your subscription , even if you have otherwise deleted your account with us or if you have deleted the tinder application from your device . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "deleting-your-account-on-tinder-or-deleting-the-tinder-applicati",
+    "text": "deleting your account on tinder or deleting the tinder application from your device does not cancel your subscription ; tinder will retain all funds charged to your iap account until you cancel your subscription through your iap account . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  },
+  {
+    "id": "if-you-choose-to-make-a-purchase-through-tinder-online-you-agr",
+    "text": "if you choose to make a purchase through tinder online , you agree to pay tinder all charges at the prices displayed to you for the services you 've selected as well as any sales or similar taxes that may be imposed on your payments , and you authorize tinder to charge your chosen payment provider ( your `` payment method '' ) . \n",
+    "document_type": "unknown",
+    "risk_level": "low",
+    "applicable_sections": [],
+    "issues_found": [],
+    "source_url": ""
+  }
+]

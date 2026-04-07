@@ -1,0 +1,23 @@
+[
+  {
+    "document_type": "FIR",
+    "category": "Criminal",
+    "content": "The accused cheated the complainant of ₹5 lakhs by fraudulent misrepresentation.",
+    "predicted_sections": ["IPC 420", "IPC 406"],
+    "risk_analysis": { "risk_level": "high" }
+  },
+  {
+    "document_type": "Contract",
+    "category": "Civil",
+    "content": "Agreement between Party A and Party B for software development services.",
+    "predicted_sections": ["Section 73 Contract Act"],
+    "risk_analysis": { "risk_level": "low" }
+  },
+  {
+    "document_type": "Affidavit",
+    "category": "Civil",
+    "content": "Affidavit filed before District Court regarding property dispute.",
+    "predicted_sections": ["Section 10 CPC"],
+    "risk_analysis": { "risk_level": "medium" }
+  }
+]

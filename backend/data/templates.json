@@ -1,0 +1,47 @@
+[
+  {
+    "id": "template-vakalatnama",
+    "doc_type": "Vakalatnama",
+    "jurisdiction": "India",
+    "required_fields": [
+      "Û4Í\u001a7eÉÛeV3µÆ\u001d @ì hÉ\u0011øf\u001b¥zoNÒºÅHï",
+      "Microsoft Word",
+      "Wednesday, February 06, 2002 10 51 37 AM",
+      "Unknown",
+      "vakalatnama"
+    ],
+    "clauses": []
+  },
+  {
+    "id": "template-filing-form",
+    "doc_type": "Filing Form",
+    "jurisdiction": "India",
+    "required_fields": [
+      "\u0018\u001a\u0014I±H=Hú\u0003cü>Kî~&É¥m' 4^U³8ó",
+      "×\u0013Ó\u0018\u0005óE#R/y °\u0018ù ø5\u0010Öò}#",
+      "\u0011§\u0014Ö\u0011>8'É*bË×s¾nÏ\u0018Y\u001açD®\u0005¦<7R]V",
+      "m¶YþÚl¸YvÜ  \u0005 Þ[öËKîá ¦½Un\u0015¦",
+      "L¤\"¨6K$=",
+      "Ï%$Rü¿ÞôÜß\u0013ë}sß«÷úä-A#¬¡Ú Z",
+      "b \u00044ZJ¢",
+      "¨[LgÔbY\u001afbÙ£6g",
+      "¼£TÍ=MÕp2¨dÞ²ªzG",
+      "¾t-xö¹d¶½yw\u001f\u0013ª",
+      "Û\u0019G ú0ÜÓí£ùá-Ùa£zA\u0017\u0015ÚQ7¥zIo",
+      "\u0006´\"N \u0004"
+    ],
+    "clauses": []
+  },
+  {
+    "id": "template-process-fee",
+    "doc_type": "Process fee",
+    "jurisdiction": "India",
+    "required_fields": [
+      "Microsoft Word",
+      "Wednesday, February 06, 2002 11 19 16 AM",
+      "Unknown",
+      "process fee"
+    ],
+    "clauses": []
+  }
+]

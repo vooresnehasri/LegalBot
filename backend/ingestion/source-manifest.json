@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "defaults": {
+    "timeout_ms": 30000,
+    "user_agent": "legalbot-ingestion/1.0"
+  },
+  "sources": [
+    {
+      "id": "official_indiacode_statutes",
+      "enabled": false,
+      "kind": "json_url_env",
+      "dataset_type": "statutes",
+      "url_env": "INDIA_CODE_DATA_URL",
+      "license": "Government of India public data terms",
+      "provenance": {
+        "organization": "India Code",
+        "source_url": "https://www.indiacode.nic.in/"
+      }
+    },
+    {
+      "id": "official_ecourts_judgments",
+      "enabled": true,
+      "kind": "json_url_env",
+      "dataset_type": "judgments",
+      "url_env": "ECOURTS_DATA_URL",
+      "license": "eCourts / official portal terms",
+      "provenance": {
+        "organization": "eCourts / Supreme Court",
+        "source_url": "https://ecourts.gov.in/"
+      }
+    },
+    {
+      "id": "licensed_indiankanoon_search_api",
+      "enabled": true,
+      "kind": "indiankanoon_search",
+      "dataset_type": "judgments",
+      "license": "Indian Kanoon API terms",
+      "provenance": {
+        "organization": "Indian Kanoon",
+        "source_url": "https://api.indiankanoon.org/documentation/"
+      },
+      "config": {
+        "api_key_env": "IK_API_TOKEN",
+        "queries": [
+          "Article 21 Supreme Court",
+          "Section 138 NI Act",
+          "anticipatory bail Section 438 CrPC",
+          "contract damages Section 73"
+        ],
+        "limit_per_query": 20
+      }
+    },
+    {
+      "id": "licensed_indiankanoon_laws_api",
+      "enabled": true,
+      "kind": "indiankanoon_search",
+      "dataset_type": "statutes",
+      "license": "Indian Kanoon API terms",
+      "provenance": {
+        "organization": "Indian Kanoon",
+        "source_url": "https://api.indiankanoon.org/documentation/"
+      },
+      "config": {
+        "api_key_env": "IK_API_TOKEN",
+        "queries": [
+          "Indian Penal Code section 420 doctypes:laws",
+          "Code of Criminal Procedure section 154 doctypes:laws",
+          "Code of Criminal Procedure section 438 doctypes:laws",
+          "Indian Contract Act section 73 doctypes:laws",
+          "Indian Contract Act section 74 doctypes:laws",
+          "Constitution of India Article 21 doctypes:laws"
+        ],
+        "limit_per_query": 15
+      }
+    },
+    {
+      "id": "public_forms_templates_dataset",
+      "enabled": true,
+      "kind": "ecourts_forms_pdf_urls",
+      "dataset_type": "templates",
+      "license": "eCourts / official portal terms",
+      "provenance": {
+        "organization": "eCourts",
+        "source_url": "https://ecourts.gov.in/ecourts_home/forms/"
+      },
+      "config": {
+        "urls": [
+          "https://ecourts.gov.in/ecourts_home/forms/Vakalatnama.pdf",
+          "https://ecourts.gov.in/ecourts_home/forms/Filing%20Form.pdf",
+          "https://ecourts.gov.in/ecourts_home/forms/Process%20fee.pdf"
+        ]
+      }
+    },
+    {
+      "id": "public_risk_labels_dataset",
+      "enabled": true,
+      "kind": "json_url_env",
+      "dataset_type": "risk_labels",
+      "url_env": "RISK_LABELS_DATA_URL",
+      "license": "Source-specific open/public license",
+      "provenance": {
+        "organization": "Open Legal NLP Dataset",
+        "source_url": "https://example.org/open-legal-risk-labels"
+      }
+    },
+    {
+      "id": "public_glossary_dataset",
+      "enabled": false,
+      "kind": "json_url_env",
+      "dataset_type": "glossary",
+      "url_env": "LEGAL_GLOSSARY_DATA_URL",
+      "license": "Source-specific open/public license",
+      "provenance": {
+        "organization": "Open Legal Glossary",
+        "source_url": "https://example.org/open-legal-glossary"
+      }
+    },
+    {
+      "id": "public_ontology_dataset",
+      "enabled": false,
+      "kind": "json_url_env",
+      "dataset_type": "ontology",
+      "url_env": "LEGAL_ONTOLOGY_DATA_URL",
+      "license": "Source-specific open/public license",
+      "provenance": {
+        "organization": "Open Legal Taxonomy",
+        "source_url": "https://example.org/open-legal-ontology"
+      }
+    },
+    {
+      "id": "public_citation_graph_dataset",
+      "enabled": true,
+      "kind": "csv_url_env",
+      "dataset_type": "citation_graph",
+      "url_env": "LEGAL_CITATION_GRAPH_DATA_URL",
+      "license": "Source-specific open/public license",
+      "provenance": {
+        "organization": "Open Citation Graph",
+        "source_url": "https://example.org/open-citation-graph"
+      }
+    },
+    {
+      "id": "open_opennyai_inlegalbench",
+      "enabled": false,
+      "kind": "jsonl_url",
+      "dataset_type": "judgments",
+      "url": "https://huggingface.co/datasets/opennyaiorg/InLegalBench/resolve/main/data/train.jsonl",
+      "license": "CC BY-SA 4.0",
+      "provenance": {
+        "organization": "OpenNyAI",
+        "source_url": "https://github.com/Legal-NLP-EkStep"
+      }
+    }
+  ]
+}
